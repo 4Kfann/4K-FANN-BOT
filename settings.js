@@ -27,9 +27,9 @@ global.APIKeys = {
 global.owner = ['6289668070504'] //ur owner number
 global.ownernomer = "6289668070504" //ur owner number2
 global.ownername = "4K FANN BOT" //ur owner name
-global.ytname = "@BG-DARWIN" //ur yt chanel name
+global.ytname = "" //ur yt chanel name
 global.socialm = "jgn spam owner njg" //ur github or insta name
-global.location = "Kalimantan Selatan, Indonesia " //ur location
+global.location = "jawa timur, Indonesia " //ur location
 
 //new
 global.botname = "4K FANN BOT ✆"
@@ -62,18 +62,18 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Here you go!',
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
-    premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
-    group: 'Features Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature could be used by bot only',
+    success: 'ini sayangku❤️!',
+    admin: 'Fitur ini hanya dapat digunakan oleh admin!',
+    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
+    premime: 'Fitur Khusus Premium Jika Ingin Daftar Ketik Sewa',
+    owner: 'Fitur ini hanya dapat digunakan oleh pemilik',
+    group: 'Fitur Hanya Digunakan Untuk Grup!',
+    private: 'Fitur Hanya Digunakan Untuk Obrolan Pribadi!',
+    bot: 'Fitur ini hanya dapat digunakan oleh bot',
     wait: 'In process...',
-    linkm: 'Where is the link?',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    linkm: 'dimana tautanya?',
+    endLimit: 'Batas Harian Anda Telah Kedaluwarsa, Batasan Akan Direset Setiap 12 Jam',
+    nsfw: 'Fitur nsfw belum diaktifkan, silahkan menghubungi admin untuk mengaktifkan',
 }
 
 let file = require.resolve(__filename)
